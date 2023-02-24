@@ -17,7 +17,6 @@
 
 <img src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png" alt="Logo_Short" width="180"/>
 
--   Member of [RESEARCH GROUP] (LINK OF RESEARCH GROUP) --\>
 
 <!-- Showing what you work on, lets other collaborate with you -->
 
